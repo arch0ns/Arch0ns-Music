@@ -1,5 +1,5 @@
 {
-    "token": "MTQzMzg1NTQyNTc2OTM3Nzg4Mg.GLsdKa.sXOwCDMwHwWDJ2vpiIChf0o_9zIp5xU4FbtD2Q",
+    "token": "ad",
     "lavalink": {
         "host": "127.0.0.1",
         "port": 2333,
@@ -10,5 +10,5 @@
         "client_id": "SPOTIFY_CLIENT_ID_KAMU",
         "client_secret": "SPOTIFY_CLIENT_SECRET_KAMU"
     },
-    "genius_token": "d63AMEcPuqM6N6xI7hcTG31dHIlqN7sdf-uTPapndTkn1soAMZAbT8vTrVCp8vNB"
+    "genius_token": "ad"
 }
